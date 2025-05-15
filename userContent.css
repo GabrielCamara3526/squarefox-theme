@@ -1,0 +1,39 @@
+@-moz-document url(about:newtab), url(about:home) {
+    .card,
+    .card-outer {
+        border-radius: 0% !important;
+    }
+    .weatherCard {
+        border-radius: 0% !important;
+        /*border: 2px solid #e6faff /*#3f5b69 !important*/
+    }
+    .weatherInfoLink{
+        border-radius: 0% !important;
+    }
+
+    .weatherButtonContextMenuWrapper{
+        border-radius: 0% !important;
+    }
+    .search-handoff-button{
+        border-radius: 0% !important;
+    }
+
+    .search-inner-wrapper{
+        border-radius: 0% !important;
+    }
+
+    .tile{
+        border-radius: 0% !important;
+    }
+    
+    .context-menu{
+        border-radius: 0% !important;
+    }
+    .top-site-outer{
+        border-radius: 0% !important;
+    }
+
+    .location-input-wrapper{
+        border-radius: 0%;
+    }
+}

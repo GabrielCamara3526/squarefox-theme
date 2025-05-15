@@ -1,0 +1,51 @@
+
+/* Aba ativa */
+/* .tabbrowser-tab[selected="true"] .tab-background {
+    border-radius: 0px 0px !important;
+    margin-bottom: 0px !important;
+    padding: 0px !important; */
+    /*border-top: 2px solid #8fa876 !important;*/
+    /*background: linear-gradient(to bottom, #565656, #3a3a3a) !important;*/
+/* } */
+
+/* estilo para abas inativas */
+/* .tabbrowser-tab:not([selected="true"]) .tab-background { 
+    border-radius: 0px 0px !important; 
+    margin-bottom: 0px !important;
+    background: linear-gradient(to bottom, #252525, #3a3a3a) !important;
+    border-top: 2px solid #8fa876 !important;
+ } */
+
+/* @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"); */
+
+/* Define variables for easy theme tweaking */
+/* :root, body, * {
+  --uc-background-color: rgba(28, 27, 34, 1);
+  --uc-border-color: rgba(28, 27, 34, 0.5);
+  --uc-text-color: rgb(255, 255, 255);
+  --uc-border-radius: 10px;
+  --uc-selected: rgba(0, 0, 0, 1);
+  --uc-hover: rgba(0, 0, 0, 0.7);
+} */
+
+/* Apply styles to all context menus */
+/* menupopup, panel {
+  background-color: var(--uc-background-color) !important;
+  color: var(--uc-text-color) !important;
+  border-radius: var(--uc-border-radius) !important;
+  border: 1px solid var(--uc-border-color) !important;
+  padding: 5px 10px !important; /* example spacing */
+/* }  */
+
+/* Style hovered menu items */
+/* menuitem:hover {
+  background-color: var(--uc-hover) !important;
+  color: var(--uc-text-color) !important;
+} */
+
+/* Style selected menu items */
+/* menu:where([_moz-menuactive="true"]:not([disabled="true"])),
+menuitem:where([_moz-menuactive="true"]:not([disabled="true"])) {
+  background-color: var(--uc-selected) !important;
+  color: var(--uc-text-color) !important;
+} */
