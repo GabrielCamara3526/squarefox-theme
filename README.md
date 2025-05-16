@@ -2,6 +2,7 @@ Squarefox is a Firefox theme i made to turn all elements visible on the Firefox 
 
 ## Changes Included:
 - Main search bar
-- Weathercard (detailed and simple view)
+- Weather card (detailed and simple view)
 - Recent activity cards
 - Shortcuts (sites you save or visit)
+- Widget context menus
