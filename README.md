@@ -1,4 +1,4 @@
-Squarefox is a Firefox theme i made to turn all elements visible on the Firefox homepage into square-shaped icons, similarly to earlier versions of the Microsoft Edge browser
+Squarefox is a Firefox theme that turns all elements visible on the Firefox homepage into square-shaped icons, similar to the earlier versions of the Microsoft Edge browser
 
 ## Changes Included:
 - Main search bar
